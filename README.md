@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Nikola</h1>
 About Me:<br>
- 🧑‍💻 I am a software development graduate currently working on developing web applications customized for specific small businesses <br> ♟️ Most of my recent experience comes from Full-Stack development where I learned a lot about modern development practices<br> 🤖 I am currently expanding my experience by working on AI and software testing projects
+ 🧑‍💻 I am a software development graduate currently working on developing web applications customized for specific small businesses <br> ♟️ Most of my recent experience comes from Full-Stack development where I learned a lot about modern development practices<br>
 
 
 # 💻 Tech Stack/Stuff I have experience with:
